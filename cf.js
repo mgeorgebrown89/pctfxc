@@ -5,7 +5,7 @@
  * Step 1: enter your domain name 
  */
 
-const MY_DOMAIN = "your-domain.com";
+const MY_DOMAIN = "pctfxc.com";
 
 /*
  * Step 2: enter your URL slug to page ID mapping
